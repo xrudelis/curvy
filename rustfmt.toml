@@ -1,0 +1,6 @@
+indent_style = "Block"
+reorder_imports = true
+match_arm_leading_pipes = "Always"
+max_width = 88
+use_field_init_shorthand = true
+use_try_shorthand = true
